@@ -40,7 +40,7 @@ def jpgEditorToPdf(source_folder, output_folder, pdf_name):
             os.remove(f'{output_folder}/{tempPdf}')
 
 
-location_folder = r''
+location_folder = r'test wow'
 source_folder = fr'{location_folder}\pictures'
 output_folder = fr'{location_folder}\output_folder'
 pdf_name = fr'{location_folder}\wow'
