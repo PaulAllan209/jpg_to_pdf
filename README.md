@@ -10,6 +10,6 @@ Steps
 5. Paste it inside the r string of the variable 'location_folder'.
 6. Run the code and it will output the cropped pictures into the 'output_folder' and it will also output a PDF which have a default name of 'wow.pdf'.
 
-Librares
-PIL(Pillow fork)
-PyPDF2
+Libraries.
+PIL(Pillow fork).
+PyPDF2.
